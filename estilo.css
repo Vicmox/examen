@@ -1,0 +1,10 @@
+body{
+	padding: 10px;
+	width: 700px;
+	height: 500px;
+}
+
+#agregarMov{
+	height: 30px;
+	width: 50px;
+}
